@@ -1,0 +1,15 @@
+name: lfd_python3
+dependencies:
+- python=3.6
+- notebook
+- pandas
+- scikit-learn
+- h5py
+- sqlalchemy
+- pip3:
+  - mysqlclient
+  - retry
+  - schedule
+  - qgrid
+  - python_speech_features
+  - tensorflow-gpu
