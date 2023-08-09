@@ -13,3 +13,4 @@ dependencies:
   - qgrid
   - python_speech_features
   - tensorflow-gpu
+  - hulu.metricsdatascience.datasciencetools==2.3.5
