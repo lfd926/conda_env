@@ -7,7 +7,6 @@ dependencies:
 - h5py
 - sqlalchemy
 - pip:
-  - mysqlclient
   - retry
   - schedule
   - qgrid
