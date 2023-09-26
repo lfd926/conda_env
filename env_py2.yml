@@ -1,4 +1,4 @@
-name: lfd_base
+name: lfd_python2
 dependencies:
 - python=2.7
 - notebook
